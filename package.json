@@ -1,0 +1,28 @@
+{
+  "name": "react-tabs",
+  "description": "react tabs",
+  "version": "0.0.1",
+  "author": "scottjustin5000",
+  "main": "index.js",
+  "engines": {
+    "node": "6.10",
+    "npm": "3.8.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scottjustin5000/react-tabs"
+  },
+  "devDependencies": {
+    "react-scripts": "^0.9.5",
+    "standard": "^10.0.2"
+  },
+  "dependencies": {
+    "prop-types": "^15.5.8",
+    "react": "^15.5.0",
+    "react-dom": "^15.5.0"
+  },
+  "scripts": {
+    "build": "react-scripts build",
+    "test": "standard"
+  }
+}
